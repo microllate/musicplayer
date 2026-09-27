@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:theme="@android:style/Theme.Material.Light.NoActionBar" android:label="QQ Music Player Hook">
+        <meta-data android:name="xposedmodule" android:value="true" />
+        <meta-data android:name="xposeddescription" android:value="QQ Music Lite free-mode playback chain observer" />
+        <meta-data android:name="xposedminversion" android:value="54" />
+    </application>
+</manifest>
